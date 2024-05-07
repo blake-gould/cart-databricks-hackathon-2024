@@ -523,7 +523,7 @@ def generate_dashboard(customer_key, selected_customer_desc):
             
 def main():
     st.set_page_config(layout="wide")
-    st.title('Customer Data Search')
+    st.title('CART')
 
     # Custom CSS styles
     st.markdown(
